@@ -1,7 +1,8 @@
-{
+* {
     margin: 0;
     padding: 0;
-    box-sizzing:
+    box-sizing: bodre-box;
+    font-family: Arial, sans-serif;
 }
 
 body{
@@ -45,6 +46,7 @@ nav ul li a {
     max-width: 150px;
     border-radius: 50%;
     margin-top: 20px;
+    text-align: center;
 
 }
 section {
